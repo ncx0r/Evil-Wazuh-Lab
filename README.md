@@ -49,6 +49,6 @@ This tool written on Python will have capability to... (on progress)
 
 ## TO-DO: 
 - Extend scanner's capability to scan based on IP address. 
-- Build exploit Proof of Concept.Com. | D[W.Ag-Tux  ]
+- Build exploit Proof of Concept.
 
 
